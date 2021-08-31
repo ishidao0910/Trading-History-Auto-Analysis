@@ -1,2 +1,5 @@
 # csvファイルはpushしない
 *.csv
+
+# ipynbのcheckpointはpushしない
+*checkpoint.ipynb
